@@ -1,0 +1,5 @@
+Путь для инсталлятора:
+%windir%\system32\cmd.exe /C start /B /D .\BookShop\Installer .\BookShop\Installer\BookShopSetup.exe
+
+Путь для EXE-файла:
+%windir%\system32\cmd.exe /C start /B /D .\BookShop\dist\gui .\BookShop\dist\gui\BookShop.exe
